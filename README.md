@@ -2,7 +2,7 @@
 Vehicle Counting and Object Detection using TensorFlow1 and TensorFlow2 from videos and images
 
 
-Python yazılım dili kullanılan bu projede TensorFlow 1 ve TensorFlow 2 açık kaynaklı bir yazılım kütüphanelerinin çeşitli hazır modelleri kullanılarak 
+Python yazılım dili kullanılan bu projede TensorFlow 1 ve TensorFlow 2 açık kaynaklı yazılım kütüphanelerinin çeşitli hazır modelleri kullanılarak 
 Araç Tespiti ve Sayımı üzerine çalışılmıştır.
 
 Kullanılan modeller istenirse yeni ve uyumlu etiketlenmiş veriler ile eğitilerek daha iyi sonuçlar elde edebilirler.
